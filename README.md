@@ -76,12 +76,12 @@ detector-estilos-aprendizaje/
 |   |       ├── teacher.js
 │   │       └── test.js
 │   ├── templates/
-│   │   ├── detector/
-│   │   │   ├── index.html
-│   │   │   ├── login.html
-│   │   │   ├── student.html
-│   │   │   ├── teacher.html
-│   │   │   └── test.html
+│   │   └── detector/
+│   │       ├── index.html
+│   │       ├── login.html
+│   │       ├── student.html
+│   │       ├── teacher.html
+│   │       └── test.html
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
