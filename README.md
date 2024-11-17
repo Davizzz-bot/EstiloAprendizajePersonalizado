@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ### 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/detector-estilos-aprendizaje.git
+git clone https://github.com/Davizzz-bot/EstiloAprendizajePersonalizado.git
 cd detector-estilos-aprendizaje
 ```
 
