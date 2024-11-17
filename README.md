@@ -52,7 +52,7 @@ python manage.py runserver
 ```
 
 ### 6. Acceder a la aplicación:
-Abre tu navegador y ve a `http://127.0.0.1:8000`.
+Despues de correr el servidor copia la ruta similar a `http://127.0.0.1:8000`, abre tu navegador y pega la ruta.
 
 ---
 
