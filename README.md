@@ -131,6 +131,4 @@ Si deseas contribuir al proyecto:
 ## **Autores**
 - Moisés David González Bermúdez
 - Carlos Andrés Jiménez Sarmiento
-- Mauro Julián Chaparro Sánchez
-- Jesús David González Camargo
 
