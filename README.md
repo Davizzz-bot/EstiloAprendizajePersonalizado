@@ -93,7 +93,54 @@ detector-estilos-aprendizaje/
 ├── requirements.txt
 └── README.md
 ```
+---
+## **Estructura del Proyecto solo CRUD**
 
+Se mostrara el contenido del archivo Actividades de la carpeta Academico para mostrar como ejemplo el CRUD de las carpetas Actividades, Docentes, Estudiantes, Estudiantes_en_Grupos y Grupos.
+---
+```plaintext
+DETECTOR_PROYECTO/
+│
+├── Academico/
+│   ├── Actividades/
+│   │   ├── _pycache_/
+│   │   ├── migrations/
+│   │   ├── static/
+│   │   │   └── css/
+│   │   │       └── estilos_actividades.css
+│   │   ├── templates/
+│   │   │   ├── actualizar_actividad.html
+│   │   │   ├── crear_actividad.html
+│   │   │   ├── detalle_actividad.html
+│   │   │   ├── eliminar_actividad.html
+│   │   │   └── listar_actividades.html
+│   │   ├── _init_.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── forms.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   ├── Docentes/
+│   ├── Estudiantes/
+│   ├── Estudiantes_en_Grupos/
+│   └── Grupos/
+│
+├── Detector_Proyecto/
+│   ├── _pycache_/
+│   ├── media/
+│   ├── settings/
+│   ├── static/
+│   ├── _init_.py
+│   ├── asgi.py
+│   ├── urls.py
+│   ├── wsgi.py
+│
+├── .env
+├── manage.py
+├── requirements.txt
+```
 ---
 
 ## **Uso**
