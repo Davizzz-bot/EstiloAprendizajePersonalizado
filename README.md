@@ -134,6 +134,3 @@ Si deseas contribuir al proyecto:
 - Mauro Julián Chaparro Sánchez
 - Jesús David González Camargo
 
----
-
-Si necesitas agregar algún detalle adicional, ¡hazme saber!
