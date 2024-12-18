@@ -12,6 +12,6 @@ Este proyecto es un sistema basado en **Django** que permite evaluar los estilos
 ---
 
 ## **Autores**
-- Moisés David González Bermúdez
-- Carlos Andrés Jiménez Sarmiento
+- Moisés David González Bermúdez (mi persona)
+- Carlos Andrés Jiménez Sarmiento ()
 
