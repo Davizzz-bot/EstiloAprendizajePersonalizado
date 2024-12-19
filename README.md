@@ -5,7 +5,7 @@ Este proyecto es un sistema basado en **Django** que permite evaluar los estilos
 ---
 
 ## **Características**
-- **Entorno virtual**
+- **Configurar el entorno virtual**
 - **Test de Estilo de Aprendizaje**: Evalúa las preferencias de aprendizaje del usuario mediante preguntas sencillas.
 - **Validación de Respuestas**: Verifica que todas las preguntas estén contestadas antes de procesar los datos.
 - **Interfaz Amigable**: Diseñada con HTML, CSS y JavaScript para una experiencia de usuario óptima.
