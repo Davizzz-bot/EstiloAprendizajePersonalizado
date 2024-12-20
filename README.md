@@ -14,5 +14,5 @@ Este proyecto es un sistema basado en **Django** que permite evaluar los estilos
 
 ## **Autores**
 - Moisés David González Bermúdez (mi persona)
-- Carlos Andrés Jiménez Sarmiento ()
+- Carlos Andrés Jiménez Sarmiento, Github - @CarlosCJ2306
 
